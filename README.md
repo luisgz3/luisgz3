@@ -1,16 +1,33 @@
-## Hi there 👋
+## Luis Gómez
 
-<!--
-**luisgz3/luisgz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construyo sistemas y productos con IA. No soy programador de formación: diseño la lógica, el producto y el sistema, y uso IA para llevarlo a código y ponerlo en producción.
 
-Here are some ideas to get you started:
+Todo lo que ves acá es trabajo real, en desarrollo y en público. Lo que funciona, lo que falla y lo que aprendo en el camino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### En qué estoy trabajando
+
+**Chatflow** · *en desarrollo, cerca de producción*
+Para que tiendas y negocios vendan directamente por chat: el cliente ve el catálogo, arma el pedido y compra sin salir de la conversación.
+
+**Tribu** · *en desarrollo* · [creatutribu.com](https://creatutribu.com)
+Plataforma para alojar clases y tutoriales, con cobros integrados.
+
+**Content OS** · *uso interno*
+Panel propio para planificar, producir y medir contenido: ideas, guiones, métricas de Instagram y generación de piezas con IA.
+
+**IAgentics Labs**
+Mi laboratorio de agentes: infraestructura con IA (agentes, automatizaciones e integraciones) para que un negocio digital crezca sin crecer en proporción su equipo.
+
+---
+
+### Cómo trabajo
+
+- Primero el sistema, después la herramienta.
+- Construyo para mí antes de construir para otros.
+- Muestro el proceso, no promesas.
+
+---
+
+El código de mis proyectos es privado. La actividad que ves en el gráfico es real.
