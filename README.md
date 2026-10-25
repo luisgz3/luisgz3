@@ -1,38 +1,38 @@
 ## Luis Gómez
 
-Construyo sistemas y productos con IA. 
+I build systems and products with AI.
 
-70% Emprendedor / 30% programador [Como el fernet]: 
+70% Emprendedor / 30% programador [Como el fernet]:
 
-Diseño la lógica, el producto y el sistema, y uso IA para llevarlo a código y ponerlo en producción.
+I design the logic, the product and the system, and use AI to turn it into code and ship it to production.
 
-Todo lo que ves acá es trabajo real, en desarrollo y en público. Lo que funciona, lo que falla y lo que aprendo en el camino.
+Everything you see here is real work, built in public. What works, what breaks, and what I learn along the way.
 
 ---
 
-### En qué estoy trabajando
+### What I'm working on
 
 **Menuchats**
-Tienda Online para Locales de Comida, Gastronomicos, y Cocineros Independientes.
+Online store for restaurants, food businesses and independent cooks.
 
-**Chatsflows** · *en desarrollo, cerca de producción*
-Para que tiendas y negocios vendan directamente por chat: el cliente ve el catálogo, arma el pedido y compra sin salir de la conversación.
+**Chatsflows** · *in development, close to launch*
+Lets stores and businesses sell directly through chat: customers browse the catalog, build their order and buy without leaving the conversation.
 
-**Tribu** · *en desarrollo* 
-Plataforma para alojar clases y tutoriales, con cobros integrados.
+**Tribu** · *in development*
+Platform to host classes and tutorials, with built-in payments.
 
-**Content OS** · *uso interno*
-Panel propio para planificar, producir y medir contenido: ideas, guiones, métricas de Instagram y generación de piezas con IA.
+**Content OS** · *internal tool*
+My own dashboard to plan, produce and measure content: ideas, scripts, Instagram metrics and AI-generated content.
 
 **IAgentics Labs**
-Mi laboratorio de agentes: infraestructura con IA (agentes, automatizaciones e integraciones) para que un negocio digital crezca sin crecer en proporción su equipo.
+My agent lab: AI infrastructure (agents, automations and integrations) that lets digital businesses grow without growing their team at the same rate.
 
-### Cómo trabajo
+### How I work
 
-- Primero el sistema, después la herramienta.
-- Construyo para mí antes de construir para otros.
-- Muestro el proceso, no promesas.
+- System first, tools second.
+- I build for myself before I build for others.
+- I show the process, not promises.
 
 ---
 
-El código de mis proyectos es privado. La actividad que ves en el gráfico es real.
+My projects' code is private. The activity you see in the graph is real.
